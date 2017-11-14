@@ -52,11 +52,12 @@
       "scope": "@arf",
       "version": "latest"
     },
-	 "generator-readme": {
+    "generator-readme": {
       "registry": "https://npm-registry.whitewater.ibm.com",
       "scope": "@arf",
       "options": {
-        "enable": true
+        "enable": true,
+	"hasReadme": true      
       }
    }
   },
