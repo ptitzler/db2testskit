@@ -51,7 +51,14 @@
       "registry": "https://npm-registry.whitewater.ibm.com",
       "scope": "@arf",
       "version": "latest"
-    }
+    },
+	 "generator-readme": {
+      "registry": "https://npm-registry.whitewater.ibm.com",
+      "scope": "@arf",
+      "options": {
+        "enable": true
+      }
+   }
   },
   "requiredCapabilities": [
     "dashDb"
