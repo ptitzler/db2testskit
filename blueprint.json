@@ -23,7 +23,8 @@
       "generator-ibm-core-node-express",
       "generator-ibm-cloud-enablement",
       "generator-ibm-service-enablement",
-      "generator-usecase-enablement"
+      "generator-usecase-enablement",
+      "generator-readme"    
     ],
     "python": [
       "generator-core-python-flask",
